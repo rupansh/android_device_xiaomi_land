@@ -20,7 +20,7 @@
 
 ## Device Picture
 
-![Redmi 3S](http://cdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-3-pro-2.jpg "Redmi 3S")
+![Redmi 3S](https://des.gbtcdn.com/uploads/pdm-desc-pic/Electronic/image/2016/07/11/1468204876295828.jpg "Redmi 3S")
 
 ## Copyright
 
